@@ -68,7 +68,6 @@ const PokemonData = ({ pokemonId }) => {
       <div className="md:flex md:flex-row md:justify-center md:align-middle md:p-5 flex flex-row justify-center align-middle p-5">
         <Typography variant="h4" className="text-start">{name}</Typography>
         <div className="md:flex md:flex-row md:justify-start md:align-middle md:p-3">
-          <p className="">Numero generazione</p>
         </div>
       </div>
       <div className="md:flex md:flex-row md:justify-start md:align-middle md:p-5 flex flex-row justify-center align-middle p-2">
